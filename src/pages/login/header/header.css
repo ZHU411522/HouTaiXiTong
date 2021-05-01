@@ -1,0 +1,8 @@
+.login_header {
+  height: 80px;
+  line-height: 80px;
+  text-align: center;
+  color: #fff;
+  font-size: 28px;
+  background: #000;
+}
